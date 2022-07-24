@@ -1,0 +1,29 @@
+body,html{
+    background-color: #0c111b;
+}
+.icon
+{
+    margin-left: 1400px;
+}
+.col
+{
+    margin-top: 60px;
+}
+.card
+{ 
+    background-color: #0c111b;
+    color:white;
+    box-shadow: 0px 1px 1px;
+    width:200px;
+}
+.card:hover{
+    transform:scale(1.1);
+}
+.row
+{
+    margin-top: 50px;
+}
+.imb
+{
+    margin-top: 400px;
+}
