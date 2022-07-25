@@ -14,6 +14,7 @@ const Home = () => {
 {fetch('https://www.omdbapi.com/?s=harry&apikey=c78c8143').then(response=>response.json()).then(value=>setdata(value.Search))
  }
   ,[])
+ 
   return (
     <div>
 <Values/>

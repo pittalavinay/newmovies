@@ -12,7 +12,9 @@ const Cardreducer=createSlice(
     reducers:{
         get:(state,action)=>{
            return {...state,movies:action.payload}}
-        }})
+
+        }
+        })
 
 export const {get}= Cardreducer.actions;
 export default Cardreducer.reducer;

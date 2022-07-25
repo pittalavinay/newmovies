@@ -2,7 +2,6 @@ import React from 'react'
 import Home from './Home'
 import Moviecart from './Moviecart'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
-import Navbar from './Navbar'
 const App = () => {
   return (
     <div>
