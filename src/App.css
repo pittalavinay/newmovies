@@ -12,7 +12,7 @@ body,html{
     background-color: #0c111b;
     color:white;
     box-shadow: 0px 1px 1px;
-    width:200px;
+    width:150px;
 }
 .card:hover{
     transform:scale(1.1);
@@ -37,7 +37,20 @@ body,html{
 .cart
 { color:white;
 }
-.ro
+.vinay
 {
-    flex-direction: row;
+    display: flex;
+   margin-top: 20px;
 }
+.show
+{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.king
+{
+    color: white;
+    margin-top: 150px;
+}
+
