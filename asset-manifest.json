@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newmovies/static/css/main.2ffac1d1.css",
+    "main.js": "/newmovies/static/js/main.d36b3f02.js",
+    "static/js/787.14e4bc02.chunk.js": "/newmovies/static/js/787.14e4bc02.chunk.js",
+    "index.html": "/newmovies/index.html",
+    "main.2ffac1d1.css.map": "/newmovies/static/css/main.2ffac1d1.css.map",
+    "main.d36b3f02.js.map": "/newmovies/static/js/main.d36b3f02.js.map",
+    "787.14e4bc02.chunk.js.map": "/newmovies/static/js/787.14e4bc02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ffac1d1.css",
+    "static/js/main.d36b3f02.js"
+  ]
+}
